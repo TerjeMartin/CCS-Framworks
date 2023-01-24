@@ -1,0 +1,23 @@
+{
+  "name": "ccs-framworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TerjeMartin/CCS-Framworks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TerjeMartin/CCS-Framworks/issues"
+  },
+  "homepage": "https://github.com/TerjeMartin/CCS-Framworks#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
